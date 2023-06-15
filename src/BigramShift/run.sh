@@ -1,0 +1,13 @@
+python bshiftForPerturbations.py -i ../gold/hindi/appendirr.csv -o ../gold/hindi/shifted_appendirr.csv
+python bshiftForPerturbations.py -i ../gold/hindi/dropallboth.csv -o ../gold/hindi/shifted_dropallboth.csv
+python bshiftForPerturbations.py -i ../gold/hindi/dropallNN.csv -o ../gold/hindi/shifted_dropallNN.csv
+python bshiftForPerturbations.py -i ../gold/hindi/dropallVB.csv -o ../gold/hindi/shifted_dropallVB.csv
+python bshiftForPerturbations.py -i ../gold/hindi/dropfirst.csv -o ../gold/hindi/shifted_dropfirst.csv
+python bshiftForPerturbations.py -i ../gold/hindi/droplast.csv -o ../gold/hindi/shifted_droplast.csv
+python bshiftForPerturbations.py -i ../gold/hindi/dropfirstlast.csv -o ../gold/hindi/shifted_dropfirstlast.csv
+python bshiftForPerturbations.py -i ../gold/hindi/droprandNN.csv -o ../gold/hindi/shifted_droprandNN.csv
+python bshiftForPerturbations.py -i ../gold/hindi/droprandVB.csv -o ../gold/hindi/shifted_droprandVB.csv
+python bshiftForPerturbations.py -i ../gold/hindi/keepboth.csv -o ../gold/hindi/shifted_keepboth.csv
+python bshiftForPerturbations.py -i ../gold/hindi/keepVB.csv -o ../gold/hindi/shifted_keepVB.csv
+python bshiftForPerturbations.py -i ../gold/hindi/keepNN.csv -o ../gold/hindi/shifted_keepNN.csv
+python bshiftForPerturbations.py -i ../gold/hindi/shuffle.csv -o ../gold/hindi/shifted_shuffle.csv
